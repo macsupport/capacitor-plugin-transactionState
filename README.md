@@ -1,1 +1,1 @@
-# capacitor-plugin-transactionState
+# capacitor-plugin-transactionstate
